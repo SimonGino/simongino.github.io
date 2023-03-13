@@ -2,12 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ryujinx.top/posts/tech/minio%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+  </url><url>
+    <loc>https://www.ryujinx.top/posts/tech/python%E5%9F%BA%E7%A1%80/</loc>
+  </url><url>
+    <loc>https://www.ryujinx.top/posts/tech/%E8%AE%B0%E5%BD%95vps%E7%9A%84%E5%AE%89%E8%A3%85%E5%91%BD%E4%BB%A4/</loc>
+  </url><url>
+    <loc>https://www.ryujinx.top/archives/</loc>
+  </url><url>
+    <loc>https://www.ryujinx.top/posts/tech/</loc>
+  </url><url>
+    <loc>https://www.ryujinx.top/</loc>
+  </url><url>
+    <loc>https://www.ryujinx.top/posts/</loc>
+  </url><url>
+    <loc>https://www.ryujinx.top/posts/read/</loc>
+  </url><url>
+    <loc>https://www.ryujinx.top/about/</loc>
+  </url><url>
+    <loc>https://www.ryujinx.top/search/</loc>
+  </url><url>
     <loc>https://www.ryujinx.top/categories/</loc>
   </url><url>
     <loc>https://www.ryujinx.top/series/</loc>
   </url><url>
-    <loc>https://www.ryujinx.top/tags/</loc>
+    <loc>https://www.ryujinx.top/posts/life/</loc>
   </url><url>
-    <loc>https://www.ryujinx.top/</loc>
+    <loc>https://www.ryujinx.top/links/</loc>
+  </url><url>
+    <loc>https://www.ryujinx.top/tags/</loc>
   </url>
 </urlset>
